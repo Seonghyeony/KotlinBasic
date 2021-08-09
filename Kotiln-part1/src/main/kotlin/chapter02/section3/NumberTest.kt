@@ -1,7 +1,5 @@
 package chapter02.section3
 
-import kotlin.reflect.typeOf
-
 fun main() {
     var test: Number = 12.2
     println("$test")
